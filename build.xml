@@ -11,7 +11,7 @@
     <property name="target" value="1.5"/>
     <property name="source" value="1.5"/>
     <path id="Android 4.1.libraryclasspath">
-        <pathelement location="../../android-sdks/platforms/android-16/android.jar"/>
+        <pathelement location="/home/hesa/android-sdks/platforms/android-16/android.jar"/>
     </path>
     <path id="Android Dependencies.libraryclasspath">
         <pathelement location="libs/android-support-v4.jar"/>
